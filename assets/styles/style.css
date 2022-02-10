@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+  text-decoration: none;
+  list-style-type: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "iransans";
+}
+
+@font-face {
+  font-family: "iransans";
+  src: url("../fonts/IranYekan/IranYekanWebMedium.ttf");
+}
+
+body {
+  background-color: #f5f5f5 !important;
+}
+
+a {
+  color: initial;
+  text-decoration: none;
+}
+
+ol,
+ul {
+  padding-left: 0;
+}
+
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.form-check .form-check-input {
+  float: right !important;
+  margin-left: 0.585em !important;
+}
+
+.form-check-input,
+.form-check-label {
+  cursor: pointer !important;
+}
+
+.form-switch .form-check-input {
+  width: 3em !important;
+  height: 1.5em !important;
+}
+
+.no-link-hover:hover {
+  color: #000 !important;
+}
+
+.search-box input {
+  outline: none !important;
+  border: none !important;
+  background-color: #f5f5f5;
+  color: #a7a7a8;
+  padding-right: 45px !important;
+  font-size: 17px !important;
+  cursor: pointer;
+}
+
+.search-box i {
+  position: absolute;
+  min-width: 40px;
+  padding: 15px 25px;
+  color: #7f8185;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.product-carousel .swiper-slide img {
+  padding: 30px 30px 15px 30px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.discount-percent-part {
+  background-color: #ff0000;
+}
+
+.discounted-price-part {
+  color: #2da61d;
+}
+
+.product-hover {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.product-hover:hover {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+          box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+}
+
+.product-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  position: absolute;
+  top: -5px;
+  right: 5px;
+}
+
+.product-icons i {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.product-icons i:hover {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+.dropdown-btn {
+  cursor: pointer;
+  outline: none;
+}
+
+.dropdown-btn .rotate270 {
+  -webkit-transform: rotate(270deg) !important;
+  transform: rotate(270deg) !important;
+}
+
+.rotateX180 {
+  -webkit-transform: rotateX(180deg) !important;
+  transform: rotateX(180deg) !important;
+}
+
+.dropdown-btn.active {
+  color: #000 !important;
+}
+
+.dropdown-container {
+  display: none;
+  padding-right: 15px;
+}
+
+.dropdown-container li {
+  padding-top: 7px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.dropdown-container li:hover {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  background-color: #f0f0f0;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.slider {
+  height: 5px;
+  position: relative;
+  background: #ddd;
+  border-radius: 5px;
+}
+
+.slider .progress {
+  height: 100%;
+  left: 25%;
+  right: 25%;
+  position: absolute;
+  border-radius: 5px;
+  background: #17a2b8;
+}
+
+.range-input {
+  position: relative;
+}
+
+.range-input input {
+  position: absolute;
+  width: 100%;
+  height: 5px;
+  top: -5px;
+  background: none;
+  pointer-events: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  height: 17px;
+  width: 17px;
+  border-radius: 50%;
+  background: #17a2b8;
+  pointer-events: auto;
+  -webkit-appearance: none;
+  -webkit-box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+          box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+}
+
+input[type="range"]::-moz-range-thumb {
+  height: 17px;
+  width: 17px;
+  border: none;
+  border-radius: 50%;
+  background: #17a2b8;
+  pointer-events: auto;
+  -moz-appearance: none;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+}
+/*# sourceMappingURL=style.css.map */

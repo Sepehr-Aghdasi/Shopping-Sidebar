@@ -1,0 +1,167 @@
+%!Adobe-FontList 1.20
+%Locale:0x429
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:digikala
+FamilyName:digikala
+StyleName:Regular
+FullName:digikala
+MenuName:digikala
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\Digikala.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:138904
+FileModTime:1641024837
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,digikala
+NameArray:0,Win,1,digikala
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\Digikala.woff2
+FileModTime:1641024648
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb
+FamilyName:IRANYekanWeb
+StyleName:Regular
+FullName:IRANYekanWeb
+MenuName:IRANYekanWeb
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Regular
+FullNameNative:IRANYekanWeb Regular
+WritingScript:Arabic
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWeb.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36076
+FileModTime:1641024719
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANYekanWeb
+NameArray:0,Win,1,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWeb.woff2
+FileModTime:1641024615
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Bold
+FamilyName:IRANYekanWeb
+StyleName:Bold
+FullName:IRANYekanWeb Bold
+MenuName:IRANYekanWeb
+StyleBits:2
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Bold
+FullNameNative:IRANYekanWeb Bold
+WritingScript:Arabic
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWebBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36020
+FileModTime:1641024845
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANYekanWeb Bold
+NameArray:0,Win,1,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWebBold.woff2
+FileModTime:1641024639
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Light
+FamilyName:IRANYekanWeb
+StyleName:Light
+FullName:IRANYekanWeb Light
+MenuName:IRANYekanWeb Light
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Light
+FullNameNative:IRANYekanWeb Light
+WritingScript:Arabic
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWebLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37864
+FileModTime:1641024841
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANYekanWeb Light
+NameArray:0,Win,1,IRANYekanWeb Light
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWebLight.woff2
+FileModTime:1641024607
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IRANYekanWeb-Medium
+FamilyName:IRANYekanWeb
+StyleName:Medium
+FullName:IRANYekanWeb Medium
+MenuName:IRANYekanWeb Medium
+StyleBits:0
+FamilyNameNative:IRANYekanWeb
+StyleNameNative:Medium
+FullNameNative:IRANYekanWeb Medium
+WritingScript:Arabic
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWebMedium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:60332
+FileModTime:1641024833
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,IRANYekanWeb Medium
+NameArray:0,Win,1,IRANYekanWeb Medium
+NameArray:0,Win,16,IRANYekanWeb
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:E:\1-فروشگاه دوچرخه رودی\وب سایت\Font\IranYekanWebMedium.woff
+FileModTime:1641024628
+%EndFont
+
